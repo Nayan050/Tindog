@@ -1,2 +1,1 @@
-# Tindog
-website to buy dogs 
+TinDog Starting Files
